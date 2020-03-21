@@ -1,0 +1,44 @@
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Form1.resources
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CopyComplete
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\obj\Debug\ProjectA.Form1.resources
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CopyComplete
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Admin\Desktop\Новая папка (6)\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\obj\Debug\ProjectA.Form1.resources
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CopyComplete
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Admin\Desktop\project\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\obj\Debug\ProjectA.Form1.resources
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CopyComplete
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Admin\Desktop\project2\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
