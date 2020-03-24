@@ -44,6 +44,11 @@ namespace ProjectA
         
 		private List<string> Separate(string input)
 		{
+
+            var allowChars = new List<Char> {
+
+                'A','B', 'C', 'D','E','F','a','b', 'c', 'd','e','f','x','b','h','.',','
+            };
             var resultCollection = new List<String>();
 			var pos = 0;
 			while (pos < input.Length)
@@ -53,11 +58,10 @@ namespace ProjectA
 				if (operators.All(it => it.Name != input[pos].ToString()))
 				{
 
-                   
-                   //склеивает числа в одно число и если символы "," "." "x" "b"
+                    //склеивает числа в одно число и если символы 'A','B', 'C', 'D','E','F','a','b', 'c', 'd','e','f','x','b','h','.',','
                     if (char.IsDigit(input[pos]))
                     {
-                        for (var i = pos + 1; i < input.Length && (char.IsDigit(input[i]) || input[i] == ',' || input[i] == '.' ||  input[i] == 'x' ||  input[i] == 'b'); i++)
+                        for (var i = pos + 1; i < input.Length && (char.IsDigit(input[i]) || allowChars.Contains(input[i])); i++)
                         {
                             s += input[i];
                         }

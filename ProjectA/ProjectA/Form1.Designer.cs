@@ -100,7 +100,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(139, 20);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Перевод чисел";
+            this.label3.Text = "Перевод числа";
             // 
             // label4
             // 

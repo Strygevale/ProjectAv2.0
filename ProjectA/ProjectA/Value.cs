@@ -303,6 +303,8 @@ namespace ProjectA
 		}
 	}
 
+	
+
 
 	/// <summary>
 	/// Парсинг чисел
@@ -322,6 +324,18 @@ namespace ProjectA
 					return resultValue;
 				}
 			}
+
+			if (value.EndsWith("h"))
+			{
+				char[] _trim_hex = new char[] { 'h' };
+
+				if (int.TryParse(value.Trim(_trim_hex), System.Globalization.NumberStyles.HexNumber, null, out var resultValue))
+				{
+					return resultValue;
+				}
+			}
+
+
 			//тоже самое и для двоичной системы, только числа уже впереди а за ним символ "b"
 			if (value.EndsWith("b"))
 			{
@@ -335,5 +349,7 @@ namespace ProjectA
 			if (double.TryParse(value, out var val2)) return val2;
 			throw new ArgumentException();
 		}
+
+		
 	}
 }

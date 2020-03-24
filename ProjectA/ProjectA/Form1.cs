@@ -55,7 +55,11 @@ namespace ProjectA
 			{
 				label1.Text = "Ошибка";
 			}
+
+
+
 			
+
 			//Перевод resultValue в 2 и 16 систему
 			try
 			{
